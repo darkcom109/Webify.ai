@@ -2,7 +2,7 @@
 
 Webify.ai is an experimental **AI-powered random website generator**.  
 It uses Hugging Face's hosted models (like `meta-llama/Llama-3.1-8B-Instruct`) to generate **unique, playful websites** on demand — complete with HTML, CSS, and JavaScript — all from scratch.
-This project is specifically for experimental purposes
+This project is specifically for experimental purposes.
 
 ---
 
